@@ -1,4 +1,3 @@
-# Lenovo-Future-Project-Group-C-Cay-pythonJupyter-Pandas-Procedure
 ### Hi there 👋
 
 <pre align="center">
