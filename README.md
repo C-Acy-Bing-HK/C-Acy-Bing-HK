@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm C-Acy Bing</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">, I'm C-Acy Bing</h1>
 <h3 align="center">Welcome To My Github ~</h3>
 
 <pre align="center">
